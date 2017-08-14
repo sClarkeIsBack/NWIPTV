@@ -14,7 +14,7 @@
   <extension point="xbmc.addon.metadata">
     <summary lang="en">North West IPTV</summary>
     <language>en</language>
-    <description lang="en">North West IPTV Official Addon - Supplier of Great Quality and Stable Streams</description>
+    <description lang="en">North West IPTV Official Addon - Supplier of Great Quality and Stable Streams[CR][CR]Website: www.northwestiptv.co.uk[CR][CR]Email Address: info@northwestiptv.co.uk </description>
      <platform>all</platform>
   </extension>
 </addon>
